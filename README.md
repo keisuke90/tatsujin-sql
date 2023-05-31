@@ -2,7 +2,7 @@
 
 [ミック（2018）「達人に学ぶ SQL 徹底指南書 第２版 初級者で終わりたくないあなたへ」翔泳社](https://www.shoeisha.co.jp/book/detail/9784798157825)の環境構築をするリポジトリです。
 
-サンプルデータは[『達人に学ぶ SQL 徹底指南書』サポートページ](http://mickindex.sakura.ne.jp/database/db_support_sinan.html#LocalLink-p1_1)からコピーしています。
+サンプルデータは[『達人に学ぶ SQL 徹底指南書』サポートページ](http://mickindex.sakura.ne.jp/database/db_support_sinan.html)からコピーしています。
 
 # 使い方
 
