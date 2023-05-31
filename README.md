@@ -24,12 +24,6 @@ MySQL に接続
 mysql -u root --password=password
 ```
 
-データベース作成（初回のみ）
-
-```bash
-create database tatsujin;
-```
-
 データベース選択
 
 ```bash
