@@ -1,0 +1,6 @@
+/* List9-3 ［エラー例］全角スペースを使う */
+public class Hello{
+　   public static void main(String[] args){
+          system.out.print("Hello, World");
+     }
+}

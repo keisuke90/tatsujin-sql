@@ -1,0 +1,9 @@
+--cdコマンド（指定フォルダへ移動）
+cd C:\PostgreSQL\java\src
+
+--javacコマンド（コンパイル）
+C:\PostgreSQL\java\jdk\bin\javac Hello.java
+
+
+--javaコマンド（実行）
+C:\PostgreSQL\java\jdk\bin\java Hello

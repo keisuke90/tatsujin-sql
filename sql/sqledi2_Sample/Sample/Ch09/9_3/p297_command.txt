@@ -1,0 +1,5 @@
+--コンパイル
+C:\PostgreSQL\java\jdk\bin\javac DBConnect1.java
+
+--JDBCドライバのファイルを指定して実行
+C:\PostgreSQL\java\jdk\bin\java -cp C:\PostgreSQL\jdbc\*;. DBConnect1

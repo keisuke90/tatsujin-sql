@@ -1,0 +1,6 @@
+/* List9-2 ［エラー例］大文字と小文字を間違える */
+public class Hello{
+     public static void main(String[] args){
+          system.out.print("Hello, World");
+     }
+}

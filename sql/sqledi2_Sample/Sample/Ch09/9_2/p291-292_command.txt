@@ -1,0 +1,8 @@
+--ソースファイルの名前とクラス名を不一致にしてしまう
+C:\PostgreSQL\java\jdk\bin\javac Test.java
+
+--コマンド名やファイル名を間違える
+C:\PostgreSQL\java\jdk\vin\java Hello
+
+--クラス名を間違える
+C:\PostgreSQL\java\jdk\bin\java Hallo
